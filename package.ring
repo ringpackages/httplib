@@ -5,11 +5,11 @@ aPackageInfo = [
 	:developer = "",
 	:email = "",
 	:license = "MIT License",
-	:version = "1.0.2",
+	:version = "1.0.3",
 	:ringversion = "1.16",
 	:versions = 	[
 		[
-			:version = "1.0.2",
+			:version = "1.0.3",
 			:branch = "master"
 		]
 	],
@@ -29,8 +29,8 @@ aPackageInfo = [
 	:ringfolderfiles = 	[
 		"bin/load/httplib.ring",
 		"bin/ring_httplib.dll",
-		"extensions/ringhttplib/ringhttplib.zip",
-		"samples/UsingHTTPLib/UsingHTTPLib.zip"
+		"extensions/ringhttplib.zip",
+		"samples/UsingHTTPLib.zip"
 	],
 	:windowsfiles = 	[
 
