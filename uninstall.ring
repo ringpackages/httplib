@@ -1,5 +1,5 @@
 func main
-	? "Removing Folder : ring/extensions/ringhttplib"
+	? nl+"Removing Folder : ring/extensions/ringhttplib"
 	cDir = CurrentDir()
 	chdir(exefolder()+"../extensions")
 	OSDeleteFolder("ringhttplib")
